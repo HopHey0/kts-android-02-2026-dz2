@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Strings for WelcomeScreen composable func -->
+    <string name="welcomeMsg">Добро пожаловать!</string>
+    <string name="welcomeButtonMsg">Начать</string>
+    <!-- Strings for LoginScreen composable func -->
+    <string name="loginWelcomeMsg1">Приветствуем!</string>
+    <string name="loginWelcomeMsg2">Чтобы продолжить, войдите в аккаунт</string>
+    <string name="emailInputHint">Введите email</string>
+    <string name="passwordInputHint">Введите пароль</string>
+    <string name="passwordRecoveryString">Забыли пароль?</string>
+    <string name="loginButtonString">Войти</string>
+    <string name="signUpOffer1">Нет аккаунта? </string>
+    <string name="signUpOffer2">Зарегистрироваться</string>
+</resources>
