@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Strings for WelcomeScreen composable func -->
+    <string name="welcomeMsg">Welcome!</string>
+    <string name="welcomeButtonMsg">Get started</string>
+    <string name="welcomeImageUrl">https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png</string>
+    <!-- Strings for LoginScreen composable func -->
+    <string name="loginWelcomeMsg1">Greetings!</string>
+    <string name="loginWelcomeMsg2">Log in to continue</string>
+    <string name="emailInputHint">Enter Email</string>
+    <string name="passwordInputHint">Enter Password</string>
+    <string name="passwordRecoveryString">Forgot Password?</string>
+    <string name="loginButtonString">Log in</string>
+    <string name="signUpOffer1">Don't have an account? </string>
+    <string name="signUpOffer2">Sign Up!</string>
+</resources>
+

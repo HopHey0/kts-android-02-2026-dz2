@@ -1,0 +1,12 @@
+version:0
+string|emailInputHint|RW50ZXIgRW1haWw=
+string|loginButtonString|TG9nIGlu
+string|loginWelcomeMsg1|R3JlZXRpbmdzIQ==
+string|loginWelcomeMsg2|TG9nIGluIHRvIGNvbnRpbnVl
+string|passwordInputHint|RW50ZXIgUGFzc3dvcmQ=
+string|passwordRecoveryString|Rm9yZ290IFBhc3N3b3JkPw==
+string|signUpOffer1|RG9uJ3QgaGF2ZSBhbiBhY2NvdW50PyA=
+string|signUpOffer2|U2lnbiBVcCE=
+string|welcomeButtonMsg|R2V0IHN0YXJ0ZWQ=
+string|welcomeImageUrl|aHR0cHM6Ly9pbWFnZTJ1cmwuY29tL3IyL2RlZmF1bHQvaW1hZ2VzLzE3NzE3ODEyNDcyNTktY2ZhYzZiNTktZDI5My00ZGRlLWEyNTAtM2Y1ZDVmOTM2MTQwLnBuZw==
+string|welcomeMsg|V2VsY29tZSE=
